@@ -1,0 +1,3 @@
+{"time": 1764321384.4644704, "event": "plan", "data": {"intent": "general", "worker_task": "respond_general", "requires_tools": [], "user_input": "Hello!"}}
+{"time": 1764321384.4646065, "event": "candidate", "data": {"type": "general", "message": "I'm here to help! You can ask for reminders or simple tech instructions."}}
+{"time": 1764321384.4650714, "event": "evaluation", "data": {"approved": true, "flags": [], "candidate": {"type": "general", "message": "I'm here to help! You can ask for reminders or simple tech instructions."}}}
